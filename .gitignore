@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+
+DrogonRestSample/.vs/DrogonRestSample/FileContentIndex/*.*
+DrogonRestSample/.vs/DrogonRestSample/*
