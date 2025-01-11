@@ -13,12 +13,8 @@
   },
   "ExpandedNodes": [
     "",
-    "\\build",
-    "\\build\\Debug",
-    "\\build\\x64\\Debug",
-    "\\build\\x64\\Debug\\ALL_BUILD",
     "\\src"
   ],
-  "SelectedNode": "\\build\\Debug",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
